@@ -1,0 +1,58 @@
+/*NAVIGATION BAR*/
+.p {
+    display:inline-block;
+    vertical-align: top;
+}
+.html{
+    width: 73%;
+    padding: 1%;
+}
+nav ul{
+    width: 50%;
+    margin-left: auto;
+}
+/*IMAGES*/
+.logo {
+    width: 23%;
+    padding: 1%;
+}
+.images{
+    text-align: center;
+}
+.heroImg{
+    height: 600px;
+    padding: 25px;
+}
+/*CONTENT*/
+.content{
+    width: 500px;
+    margin: 0 auto;
+}
+.flexContainer{
+    display: flex;
+    flex-direction: row;
+    background-color: 06241B;
+    align-items: center;
+    justify-content: center;
+    height: 450px;
+    padding: 50px;
+    margin: 15px;
+}
+.mySkills{
+    display: flex;
+}
+.myWork{
+    display: flex;
+}
+
+/*FOOTER*/ 
+footer{
+    background-color: 373738;
+    display: flex;
+    justify-content: center;
+}
+footer ul{
+    display: inline-block;
+    vertical-align: top;
+    padding: center;
+}
